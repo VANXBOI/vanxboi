@@ -1,10 +1,9 @@
-# I am Vansh Agarwal
+# Vansh Agarwal
 
-- 
-- 
-- 
-- 
-- 
+- Learning to Become a Full Stack Developer
+- Learning to Code from Scratch
+- Daily Driving Linux
+- Late Start but Strong Finish
 
 
 ### Languages and Tools:
