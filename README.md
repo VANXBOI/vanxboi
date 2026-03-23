@@ -4,6 +4,8 @@
 - Learning to Code from Scratch
 - Daily Driving Linux
 - Late Start but Strong Finish
+- Skilled in Docker & Kubernetes
+- Beginner in Shell and Python Scripting
 
 
 ### Languages and Tools:
