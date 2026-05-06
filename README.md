@@ -38,6 +38,16 @@
 
 
 
+### Ai Tools:
+<img align="left" alt="Cursor" width="30px" src="https://custom.typingmind.com/assets/models/cursor.png" style="margin-right:12px; margin-bottom:10px;" />
+<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right:12px; margin-bottom:10px;" />
+<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right:12px; margin-bottom:10px;" />
+<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right:12px; margin-bottom:10px;" />
+
+
+
+
+
 
 
 
