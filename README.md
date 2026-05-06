@@ -48,10 +48,7 @@
   <img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin: 0 12px 12px 0;" />
 </p>
 
-<br />
-
 ---
-
 ### AI Tools:
 
 <p align="left">
