@@ -52,5 +52,5 @@
 ### AI Tools:
 
 <p align="left">
-  <img alt="Cursor" width="30px" src="https://custom.typingmind.com/assets/models/cursor.png" style="margin: 0 12px 12px 0;" />
+  <img alt="Cursor" width="30px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" style="margin: 0 12px 12px 0;" />
 </p>
