@@ -1,6 +1,7 @@
 # Vansh Agarwal
 
-- Learning to Become a Full Stack Developer
+- Full Stack Developer Learning Different Stacks and Android Development
+- Polishing Dev-Ops and IT Operations as well
 - Daily Driving Linux
 - Late Start but Strong Finish
 - Skilled in Docker & Kubernetes
